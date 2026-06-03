@@ -23,3 +23,8 @@ body main aside nav ul{
 body main aside nav ul li{
     display: inline;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
