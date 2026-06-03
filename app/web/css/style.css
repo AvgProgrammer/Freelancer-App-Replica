@@ -30,6 +30,8 @@ body main aside nav ul{
 }
 
 body main aside nav ul li{
+    padding: 10px;
+    font-size: 24px;
     display: inline;
 }
 /*Footer*/
