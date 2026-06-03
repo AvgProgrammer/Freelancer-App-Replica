@@ -9,3 +9,17 @@ body header{
     direction: row;
 
 }
+body main aside nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body main aside nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+body main aside nav ul li{
+    display: inline;
+}
