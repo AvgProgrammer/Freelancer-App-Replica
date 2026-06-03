@@ -1,7 +1,9 @@
+/*Head*/
 body{
 
 }
 
+/*Body*/
 body header{
     display: flex;
     justify-content: space-between;
@@ -22,7 +24,9 @@ body main aside nav ul{
 body main aside nav ul li{
     display: inline;
 }
+/*Footer*/
 
+/* General Styles */
 a{
     text-decoration: none;
     color: black;
