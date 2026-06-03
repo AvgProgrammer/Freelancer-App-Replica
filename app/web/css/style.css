@@ -1,9 +1,16 @@
-/*Head*/
-body{
+/*Body*/
+
+
+/*Header*/
+header{
 
 }
 
-/*Body*/
+/*Main*/
+body main{
+    padding: 20px;
+}
+
 body header{
     display: flex;
     justify-content: space-between;
