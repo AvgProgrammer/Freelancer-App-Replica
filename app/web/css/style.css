@@ -21,6 +21,7 @@ body header{
     padding-right: 20px;
 
 }
+/*Body Aside*/
 body main aside {
     padding: 20px;
 }
@@ -39,6 +40,15 @@ body main aside nav ul li{
     font-size: 24px;
     display: inline;
 }
+body main article{
+    background: linear-gradient(
+        135deg,
+        #faf9ff 0%,
+        #f6f4ff 50%,
+        #f0ebff 100%
+    );
+}
+
 /*Footer*/
 
 /* General Styles */
