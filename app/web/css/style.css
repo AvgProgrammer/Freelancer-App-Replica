@@ -15,7 +15,6 @@ body main aside nav{
     align-items: center;
 }
 body main aside nav ul{
-    list-style-type: none;
     padding: 0;
     margin: 0;
 }
@@ -27,4 +26,7 @@ body main aside nav ul li{
 a{
     text-decoration: none;
     color: black;
+}
+ul{
+    list-style: none;
 }
